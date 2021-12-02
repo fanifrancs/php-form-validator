@@ -14,7 +14,7 @@
     }
     .btn{
       height:50px;
-      width:70%;
+      width:80%;
       background-color: #04AA6D;
       font-size:23px;
       color:white;
@@ -28,7 +28,7 @@
       font-weight:400;
     }
     input.input{
-      width: 70%;
+      width: 80%;
       padding: 12px 20px;
       margin: 1px 0;
       box-sizing: border-box;
@@ -45,7 +45,7 @@
       background-color:whitesmoke;
       box-shadow: 5px 5px grey;
       text-align:center;
-      height:510px;
+      height:440px;
       width:80%;
       position: relative;
       margin: 0 auto;
